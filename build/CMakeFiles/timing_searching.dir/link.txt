@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall   CMakeFiles/timing_searching.dir/src/searching.cpp.o CMakeFiles/timing_searching.dir/src/timing_template.cpp.o  -o timing_searching 

@@ -1,0 +1,675 @@
+>>> Generating array for testing, please wait...
+    Done!
+
+>>> STARTING linear search with 1000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3.12081 ms
+                >>> 3.12081e+06 ns
+                >>> 0 s
+>>> STARTING binary search with 1000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000291 ms
+                >>> 291 ns
+                >>> 0 s
+>>> STARTING linear search with 19000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 80.7347 ms
+                >>> 8.07347e+07 ns
+                >>> 0 s
+>>> STARTING binary search with 19000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000401 ms
+                >>> 401 ns
+                >>> 0 s
+>>> STARTING linear search with 37000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 122.613 ms
+                >>> 1.22613e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 37000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000441 ms
+                >>> 441 ns
+                >>> 0 s
+>>> STARTING linear search with 55000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 186.445 ms
+                >>> 1.86445e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 55000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000381 ms
+                >>> 381 ns
+                >>> 0 s
+>>> STARTING linear search with 73000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 241.003 ms
+                >>> 2.41003e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 73000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000391 ms
+                >>> 391 ns
+                >>> 0 s
+>>> STARTING linear search with 91000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 358.255 ms
+                >>> 3.58255e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 91000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000451 ms
+                >>> 451 ns
+                >>> 0 s
+>>> STARTING linear search with 109000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 370.968 ms
+                >>> 3.70968e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 109000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00037 ms
+                >>> 370 ns
+                >>> 0 s
+>>> STARTING linear search with 127000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 441.238 ms
+                >>> 4.41238e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 127000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000982 ms
+                >>> 982 ns
+                >>> 0 s
+>>> STARTING linear search with 145000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 495.207 ms
+                >>> 4.95207e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 145000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000381 ms
+                >>> 381 ns
+                >>> 0 s
+>>> STARTING linear search with 163000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 545.286 ms
+                >>> 5.45286e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 163000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00043 ms
+                >>> 430 ns
+                >>> 0 s
+>>> STARTING linear search with 181000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 660.049 ms
+                >>> 6.60049e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 181000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000441 ms
+                >>> 441 ns
+                >>> 0 s
+>>> STARTING linear search with 199000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 690.179 ms
+                >>> 6.90179e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 199000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00038 ms
+                >>> 380 ns
+                >>> 0 s
+>>> STARTING linear search with 217000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 883.256 ms
+                >>> 8.83256e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 217000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000461 ms
+                >>> 461 ns
+                >>> 0 s
+>>> STARTING linear search with 235000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 835.414 ms
+                >>> 8.35414e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 235000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00037 ms
+                >>> 370 ns
+                >>> 0 s
+>>> STARTING linear search with 253000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 877.103 ms
+                >>> 8.77103e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 253000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000371 ms
+                >>> 371 ns
+                >>> 0 s
+>>> STARTING linear search with 271000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1071.41 ms
+                >>> 1.07141e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 271000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00047 ms
+                >>> 470 ns
+                >>> 0 s
+>>> STARTING linear search with 289000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 986.865 ms
+                >>> 9.86865e+08 ns
+                >>> 0 s
+>>> STARTING binary search with 289000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000441 ms
+                >>> 441 ns
+                >>> 0 s
+>>> STARTING linear search with 307000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1106.58 ms
+                >>> 1.10658e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 307000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000351 ms
+                >>> 351 ns
+                >>> 0 s
+>>> STARTING linear search with 325000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1152.57 ms
+                >>> 1.15257e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 325000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000431 ms
+                >>> 431 ns
+                >>> 0 s
+>>> STARTING linear search with 343000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1142.06 ms
+                >>> 1.14206e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 343000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000381 ms
+                >>> 381 ns
+                >>> 0 s
+>>> STARTING linear search with 361000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1233.2 ms
+                >>> 1.2332e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 361000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000391 ms
+                >>> 391 ns
+                >>> 0 s
+>>> STARTING linear search with 379000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1289.12 ms
+                >>> 1.28912e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 379000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000401 ms
+                >>> 401 ns
+                >>> 0 s
+>>> STARTING linear search with 397000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1347.28 ms
+                >>> 1.34728e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 397000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000471 ms
+                >>> 471 ns
+                >>> 0 s
+>>> STARTING linear search with 415000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1475.82 ms
+                >>> 1.47582e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 415000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000441 ms
+                >>> 441 ns
+                >>> 0 s
+>>> STARTING linear search with 433000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1441.95 ms
+                >>> 1.44195e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 433000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000471 ms
+                >>> 471 ns
+                >>> 0 s
+>>> STARTING linear search with 451000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1731.98 ms
+                >>> 1.73198e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 451000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000411 ms
+                >>> 411 ns
+                >>> 0 s
+>>> STARTING linear search with 469000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1549.42 ms
+                >>> 1.54942e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 469000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000511 ms
+                >>> 511 ns
+                >>> 0 s
+>>> STARTING linear search with 487000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1607.94 ms
+                >>> 1.60794e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 487000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000361 ms
+                >>> 361 ns
+                >>> 0 s
+>>> STARTING linear search with 505000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1768.03 ms
+                >>> 1.76803e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 505000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00046 ms
+                >>> 460 ns
+                >>> 0 s
+>>> STARTING linear search with 523000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1808.2 ms
+                >>> 1.8082e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 523000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000611 ms
+                >>> 611 ns
+                >>> 0 s
+>>> STARTING linear search with 541000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2037.98 ms
+                >>> 2.03798e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 541000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000441 ms
+                >>> 441 ns
+                >>> 0 s
+>>> STARTING linear search with 559000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1870.2 ms
+                >>> 1.8702e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 559000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000471 ms
+                >>> 471 ns
+                >>> 0 s
+>>> STARTING linear search with 577000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1956.93 ms
+                >>> 1.95693e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 577000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000411 ms
+                >>> 411 ns
+                >>> 0 s
+>>> STARTING linear search with 595000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2001.26 ms
+                >>> 2.00126e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 595000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00044 ms
+                >>> 440 ns
+                >>> 0 s
+>>> STARTING linear search with 613000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 1996.34 ms
+                >>> 1.99634e+09 ns
+                >>> 1 s
+>>> STARTING binary search with 613000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000781 ms
+                >>> 781 ns
+                >>> 0 s
+>>> STARTING linear search with 631000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2396.83 ms
+                >>> 2.39683e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 631000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.00037 ms
+                >>> 370 ns
+                >>> 0 s
+>>> STARTING linear search with 649000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2268.84 ms
+                >>> 2.26884e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 649000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000391 ms
+                >>> 391 ns
+                >>> 0 s
+>>> STARTING linear search with 667000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2328.73 ms
+                >>> 2.32873e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 667000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000401 ms
+                >>> 401 ns
+                >>> 0 s
+>>> STARTING linear search with 685000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2356.84 ms
+                >>> 2.35684e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 685000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000551 ms
+                >>> 551 ns
+                >>> 0 s
+>>> STARTING linear search with 703000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2453.29 ms
+                >>> 2.45329e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 703000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000521 ms
+                >>> 521 ns
+                >>> 0 s
+>>> STARTING linear search with 721000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2585.08 ms
+                >>> 2.58508e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 721000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000341 ms
+                >>> 341 ns
+                >>> 0 s
+>>> STARTING linear search with 739000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2597.68 ms
+                >>> 2.59768e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 739000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000461 ms
+                >>> 461 ns
+                >>> 0 s
+>>> STARTING linear search with 757000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2640.92 ms
+                >>> 2.64092e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 757000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000481 ms
+                >>> 481 ns
+                >>> 0 s
+>>> STARTING linear search with 775000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2958.98 ms
+                >>> 2.95898e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 775000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000471 ms
+                >>> 471 ns
+                >>> 0 s
+>>> STARTING linear search with 793000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2849.47 ms
+                >>> 2.84947e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 793000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000351 ms
+                >>> 351 ns
+                >>> 0 s
+>>> STARTING linear search with 811000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2961.8 ms
+                >>> 2.9618e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 811000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000481 ms
+                >>> 481 ns
+                >>> 0 s
+>>> STARTING linear search with 829000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 2906.13 ms
+                >>> 2.90613e+09 ns
+                >>> 2 s
+>>> STARTING binary search with 829000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000571 ms
+                >>> 571 ns
+                >>> 0 s
+>>> STARTING linear search with 847000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3165.79 ms
+                >>> 3.16579e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 847000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000461 ms
+                >>> 461 ns
+                >>> 0 s
+>>> STARTING linear search with 865000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3035.43 ms
+                >>> 3.03543e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 865000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000431 ms
+                >>> 431 ns
+                >>> 0 s
+>>> STARTING linear search with 883000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3133.67 ms
+                >>> 3.13367e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 883000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000561 ms
+                >>> 561 ns
+                >>> 0 s
+>>> STARTING linear search with 901000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3148.59 ms
+                >>> 3.14859e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 901000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000471 ms
+                >>> 471 ns
+                >>> 0 s
+>>> STARTING linear search with 919000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3592.01 ms
+                >>> 3.59201e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 919000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000531 ms
+                >>> 531 ns
+                >>> 0 s
+>>> STARTING linear search with 937000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3722.32 ms
+                >>> 3.72232e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 937000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000461 ms
+                >>> 461 ns
+                >>> 0 s
+>>> STARTING linear search with 955000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3436.22 ms
+                >>> 3.43622e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 955000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000601 ms
+                >>> 601 ns
+                >>> 0 s
+>>> STARTING linear search with 973000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3498.39 ms
+                >>> 3.49839e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 973000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000561 ms
+                >>> 561 ns
+                >>> 0 s
+>>> STARTING linear search with 991000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 3461.12 ms
+                >>> 3.46112e+09 ns
+                >>> 3 s
+>>> STARTING binary search with 991000000 that needs timing, please WAIT.... <<<
+>>> ENDING computation that needs timing <<<
+Target not found!
+                >>> 0.000441 ms
+                >>> 441 ns
+                >>> 0 s

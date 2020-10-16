@@ -1,0 +1,5 @@
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/build/CMakeFiles/rebuild_cache.dir
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/build/CMakeFiles/edit_cache.dir
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/build/CMakeFiles/timing_searching.dir
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/build/CMakeFiles/run_tests.dir
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/build/CMakeFiles/driver_search.dir

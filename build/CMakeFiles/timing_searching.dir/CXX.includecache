@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/searching.h
+iterator
+-
+
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/src/timing_template.cpp
+iostream
+-
+chrono
+-
+ctime
+-
+algorithm
+-
+math.h
+-
+searching.h
+/home/tarsila/Área de Trabalho/EBD/searching-exercise/src/searching.h
+
